@@ -14,8 +14,9 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+  
       appBar:new AppBar(
-        title: new Text("MovieApp - 20570"),
+          title: new Text("MovieApp - 200570"),
         actions:<Widget>[
         new IconButton(
           icon: new Icon(Icons.search, color:Colors.white,), 
