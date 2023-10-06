@@ -15,7 +15,7 @@
 
 ## Capturas de Pantalla
 <p align="center">
-  <img src="https://github.com/DanyWhizzBang/DMI_Practica8_200570/blob/main/captura.png" width="200" alt="Captura de Pantalla 2">
+  <img src="https://github.com/DanyWhizzBang/DMI_Practica9_20570/blob/main/assets/ss1.png?raw=true">
 </p>
 
 
